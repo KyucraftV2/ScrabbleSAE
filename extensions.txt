@@ -1,0 +1,3 @@
+Extension faite :
+  Lettre en ordonnée sur le plateau
+  Joueur qui commence aléatoire
